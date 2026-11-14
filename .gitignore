@@ -1,0 +1,8 @@
+node_modules
+dist
+*.log
+
+# Local Claude Code preview config
+.claude/
+.idea/
+tsconfig.tsbuildinfo
